@@ -1,15 +1,1 @@
-{
-  "list": [
-    {
-      "from": "0xb621af469869501e5c28895ec3c5845c71015cf8",
-      "index": 0,
-      "amount": "0x1b48eb57e000",
-      "uts":1623529205,
-      "proof": [
-        "0x5c31160c1fe9abee222c652953feab73183541cb4476bfcb061ef1e90eed89bf",
-        "0x9f40f9a241f7b4fee9d29d789a91213cf3449a98d2d294712edf91ec631a990e"
-      ],
-      "ipfsHash": "QmZtJ4xBoh7im54tq4BCivZPKENWsMYDC8GPLgQGCpiv7j"
-    }
-  ]
-}
+[{"from":"0x402e07e69651b8fe37ac637760d5a0d92e6a3999","index":0,"amount":"0x29d653764500","proof":["0x5c31160c1fe9abee222c652953feab73183541cb4476bfcb061ef1e90eed89bf","0x9f40f9a241f7b4fee9d29d789a91213cf3449a98d2d294712edf91ec631a990e"],"uts":1626197051153}]
